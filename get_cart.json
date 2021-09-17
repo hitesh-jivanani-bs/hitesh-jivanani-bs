@@ -1,0 +1,94 @@
+{
+  "status": 200,
+  "items": [
+    {
+      "id": 5057,
+      "name": "test_channelize_variable_product (Copy) - red",
+      "slug": "test_channelize_variable_product-red-2",
+      "date_created": {
+        "date": "2021-09-15 05:58:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2021-09-15 05:58:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "9",
+      "regular_price": "10",
+      "sale_price": "9",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": "0",
+      "tax_status": "taxable",
+      "tax_class": "parent",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 5056,
+      "reviews_allowed": false,
+      "purchase_note": "",
+      "attributes": {
+        "color": "red"
+      },
+      "default_attributes": [],
+      "menu_order": 1,
+      "post_password": "",
+      "virtual": false,
+      "downloadable": false,
+      "category_ids": [],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": 0,
+      "gallery_image_ids": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": 0,
+      "review_count": 0,
+      "attribute_summary": "color: red",
+      "meta_data": [
+        {
+          "id": 64888,
+          "key": "_ign_paypal_recipients",
+          "value": ""
+        },
+        {
+          "id": 64889,
+          "key": "_ign_paypal_payout_mode",
+          "value": "percent"
+        }
+      ],
+      "product_id": 5056,
+      "thumbnail": "http://localhost/melophy-live/wp-content/uploads/woocommerce-placeholder-300x300.png",
+      "permalink": "http://localhost/melophy-live/product/test_channelize_variable_product-copy/?attribute_color=red",
+      "quantity": 1,
+      "cart_item_key": "504c1dfce0933bdb14a9daec4a349f86",
+      "variation_id": 5057,
+      "variation": {
+        "attribute_color": "red"
+      }
+    }
+  ],
+  "currency": "USD",
+  "subtotal": "9.00",
+  "total": "9.00",
+  "total_discount": 0
+}
