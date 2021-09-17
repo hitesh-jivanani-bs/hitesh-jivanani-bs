@@ -1,0 +1,26 @@
+add_to_cart response
+
+
+success: 
+
+{"status":200,"message":"Success! Item added successfully","success":true}
+
+error:
+
+{"status":400,"message":"Sorry! The product is not available for purchase.","error":true}
+
+
+
+update_cart:
+
+
+error:
+
+{"status":200,"message":"Product was updated successfully","success":true}
+
+sucess:
+
+{"status":404,"message":"Sorry! product does not exist","error":true}
+
+{"status":400,"message":"Sorry! this product is not added or removed from the cart","error":true}
+
