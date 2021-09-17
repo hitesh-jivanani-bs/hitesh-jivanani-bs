@@ -1,0 +1,2211 @@
+{
+  "products": [
+    {
+      "id": 5056,
+      "name": "test_channelize_variable_product (Copy)",
+      "slug": "test_channelize_variable_product-copy",
+      "date_created": {
+        "date": "2021-09-15 05:58:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2021-09-15 05:58:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "9",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": 0,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "reviews_allowed": false,
+      "purchase_note": "",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "color",
+          "options": [
+            "red",
+            "pink",
+            "blue"
+          ],
+          "position": 0,
+          "visible": true,
+          "variation": true,
+          "is_visible": 1,
+          "is_variation": 1,
+          "is_taxonomy": 0,
+          "value": "red | pink | blue"
+        }
+      ],
+      "default_attributes": [],
+      "menu_order": 0,
+      "post_password": "",
+      "virtual": false,
+      "downloadable": false,
+      "category_ids": [
+        21
+      ],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": "",
+      "gallery_image_ids": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": "0",
+      "review_count": 0,
+      "meta_data": [
+        {
+          "id": 64866,
+          "key": "_ign_paypal_payout_mode",
+          "value": "percent"
+        },
+        {
+          "id": 64867,
+          "key": "_booked_appointment",
+          "value": "no"
+        },
+        {
+          "id": 64942,
+          "key": "_ign_paypal_recipients",
+          "value": ""
+        }
+      ],
+      "purchasable": true,
+      "image": "http://localhost/melophy-live/wp-content/uploads/woocommerce-placeholder-300x300.png",
+      "gallery_images": [],
+      "variations": [
+        {
+          "id": 5057,
+          "name": "test_channelize_variable_product (Copy) - red",
+          "slug": "test_channelize_variable_product-red-2",
+          "date_created": {
+            "date": "2021-09-15 05:58:23.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-15 05:58:23.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "9",
+          "regular_price": "10",
+          "sale_price": "9",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5056,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "red"
+          },
+          "default_attributes": [],
+          "menu_order": 1,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "color: red",
+          "meta_data": [
+            {
+              "id": 64888,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 64889,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": true,
+          "image": "http://localhost/melophy-live/wp-content/uploads/woocommerce-placeholder-300x300.png"
+        },
+        {
+          "id": 5058,
+          "name": "test_channelize_variable_product (Copy) - pink",
+          "slug": "test_channelize_variable_product-pink-2",
+          "date_created": {
+            "date": "2021-09-15 05:58:23.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-15 05:58:23.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "15",
+          "regular_price": "20",
+          "sale_price": "15",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5056,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "pink"
+          },
+          "default_attributes": [],
+          "menu_order": 2,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "color: pink",
+          "meta_data": [
+            {
+              "id": 64911,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 64912,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": true,
+          "image": "http://localhost/melophy-live/wp-content/uploads/woocommerce-placeholder-300x300.png"
+        },
+        {
+          "id": 5059,
+          "name": "test_channelize_variable_product (Copy) - blue",
+          "slug": "test_channelize_variable_product-blue-2",
+          "date_created": {
+            "date": "2021-09-15 05:58:23.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-15 05:58:23.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "10",
+          "regular_price": "12",
+          "sale_price": "10",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5056,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "blue"
+          },
+          "default_attributes": [],
+          "menu_order": 3,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "color: blue",
+          "meta_data": [
+            {
+              "id": 64934,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 64935,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": true,
+          "image": "http://localhost/melophy-live/wp-content/uploads/woocommerce-placeholder-300x300.png"
+        }
+      ],
+      "categories": [
+        {
+          "id": 21,
+          "name": "Uncategorized",
+          "slug": "uncategorized"
+        }
+      ]
+    },
+    {
+      "id": 5049,
+      "name": "test_channelize_variable_product",
+      "slug": "test_channelize_variable_product",
+      "date_created": {
+        "date": "2021-09-14 08:47:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2021-09-16 10:41:59.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "9",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": 0,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "outofstock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "reviews_allowed": false,
+      "purchase_note": "",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "color",
+          "options": [
+            "red",
+            "pink",
+            "blue"
+          ],
+          "position": 0,
+          "visible": true,
+          "variation": true,
+          "is_visible": 1,
+          "is_variation": 1,
+          "is_taxonomy": 0,
+          "value": "red | pink | blue"
+        }
+      ],
+      "default_attributes": [],
+      "menu_order": 0,
+      "post_password": "",
+      "virtual": false,
+      "downloadable": false,
+      "category_ids": [
+        21
+      ],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": "",
+      "gallery_image_ids": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": "0",
+      "review_count": 0,
+      "meta_data": [
+        {
+          "id": 64824,
+          "key": "_ign_paypal_payout_mode",
+          "value": [
+            "percent",
+            "percent",
+            "percent"
+          ]
+        },
+        {
+          "id": 64825,
+          "key": "_booked_appointment",
+          "value": "no"
+        }
+      ],
+      "purchasable": true,
+      "image": "http://localhost/melophy-live/wp-content/uploads/woocommerce-placeholder-300x300.png",
+      "gallery_images": [],
+      "variations": [
+        {
+          "id": 5050,
+          "name": "test_channelize_variable_product - red",
+          "slug": "test_channelize_variable_product-red",
+          "date_created": {
+            "date": "2021-09-14 08:45:45.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-16 10:41:57.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "9",
+          "regular_price": "10",
+          "sale_price": "9",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": 0,
+          "stock_status": "outofstock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5049,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "red"
+          },
+          "default_attributes": [],
+          "menu_order": 1,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "color: red",
+          "meta_data": [
+            {
+              "id": 64814,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 64815,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": true,
+          "image": "http://localhost/melophy-live/wp-content/uploads/woocommerce-placeholder-300x300.png"
+        },
+        {
+          "id": 5051,
+          "name": "test_channelize_variable_product - pink",
+          "slug": "test_channelize_variable_product-pink",
+          "date_created": {
+            "date": "2021-09-14 08:45:45.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-16 10:41:57.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "15",
+          "regular_price": "20",
+          "sale_price": "15",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": 0,
+          "stock_status": "outofstock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5049,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "pink"
+          },
+          "default_attributes": [],
+          "menu_order": 2,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "color: pink",
+          "meta_data": [
+            {
+              "id": 64816,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 64817,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": true,
+          "image": "http://localhost/melophy-live/wp-content/uploads/woocommerce-placeholder-300x300.png"
+        },
+        {
+          "id": 5052,
+          "name": "test_channelize_variable_product - blue",
+          "slug": "test_channelize_variable_product-blue",
+          "date_created": {
+            "date": "2021-09-14 08:45:45.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-16 10:41:57.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "10",
+          "regular_price": "12",
+          "sale_price": "10",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": 0,
+          "stock_status": "outofstock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5049,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "blue"
+          },
+          "default_attributes": [],
+          "menu_order": 3,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "color: blue",
+          "meta_data": [
+            {
+              "id": 64818,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 64819,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": true,
+          "image": "http://localhost/melophy-live/wp-content/uploads/woocommerce-placeholder-300x300.png"
+        }
+      ],
+      "categories": [
+        {
+          "id": 21,
+          "name": "Uncategorized",
+          "slug": "uncategorized"
+        }
+      ]
+    },
+    {
+      "id": 1246,
+      "name": "Hangout Q&A with ST4RFOX",
+      "slug": "hangout-qa-with-st4rfox",
+      "date_created": {
+        "date": "2020-12-14 04:07:48.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2020-12-14 04:08:47.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "150",
+      "regular_price": "150",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": 0,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "reviews_allowed": false,
+      "purchase_note": "",
+      "attributes": [],
+      "default_attributes": [],
+      "menu_order": 0,
+      "post_password": "",
+      "virtual": true,
+      "downloadable": false,
+      "category_ids": [
+        71
+      ],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": "940",
+      "gallery_image_ids": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": "0",
+      "review_count": 0,
+      "meta_data": [
+        {
+          "id": 10123,
+          "key": "_ign_paypal_recipients",
+          "value": ""
+        },
+        {
+          "id": 10124,
+          "key": "_ign_paypal_payout_mode",
+          "value": "percent"
+        },
+        {
+          "id": 10125,
+          "key": "_booked_appointment",
+          "value": "no"
+        }
+      ],
+      "purchasable": true,
+      "image": "http://localhost/melophy-live/wp-content/uploads/2020/10/Melophy-White-on-Black-Background.png",
+      "gallery_images": [],
+      "variations": [],
+      "categories": [
+        {
+          "id": 71,
+          "name": "Hangout QA",
+          "slug": "hangout-qa"
+        }
+      ]
+    },
+    {
+      "id": 1247,
+      "name": "Group Lesson with ST4RFOX",
+      "slug": "group-lesson-with-st4rfox",
+      "date_created": {
+        "date": "2020-12-14 04:07:48.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2020-12-14 04:08:43.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "60",
+      "regular_price": "60",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": 0,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "reviews_allowed": false,
+      "purchase_note": "",
+      "attributes": [],
+      "default_attributes": [],
+      "menu_order": 0,
+      "post_password": "",
+      "virtual": true,
+      "downloadable": false,
+      "category_ids": [
+        69,
+        67
+      ],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": "940",
+      "gallery_image_ids": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": "0",
+      "review_count": 0,
+      "meta_data": [
+        {
+          "id": 10144,
+          "key": "_ign_paypal_recipients",
+          "value": ""
+        },
+        {
+          "id": 10145,
+          "key": "_ign_paypal_payout_mode",
+          "value": "percent"
+        },
+        {
+          "id": 10146,
+          "key": "_booked_appointment",
+          "value": "no"
+        }
+      ],
+      "purchasable": true,
+      "image": "http://localhost/melophy-live/wp-content/uploads/2020/10/Melophy-White-on-Black-Background.png",
+      "gallery_images": [],
+      "variations": [],
+      "categories": [
+        {
+          "id": 69,
+          "name": "Group",
+          "slug": "group"
+        },
+        {
+          "id": 67,
+          "name": "Lessons",
+          "slug": "lessons"
+        }
+      ]
+    },
+    {
+      "id": 3264,
+      "name": "Gift Voucher",
+      "slug": "gift-voucher",
+      "date_created": {
+        "date": "2021-05-03 07:08:01.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2021-05-06 13:04:30.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "0",
+      "regular_price": "0",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": 1,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "reviews_allowed": false,
+      "purchase_note": "",
+      "attributes": [],
+      "default_attributes": [],
+      "menu_order": 0,
+      "post_password": "",
+      "virtual": false,
+      "downloadable": false,
+      "category_ids": [
+        354
+      ],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": "3299",
+      "gallery_image_ids": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": "0",
+      "review_count": 0,
+      "meta_data": [
+        {
+          "id": 36409,
+          "key": "_ign_paypal_recipients",
+          "value": ""
+        },
+        {
+          "id": 36410,
+          "key": "_ign_paypal_payout_mode",
+          "value": "fixed"
+        },
+        {
+          "id": 36428,
+          "key": "mwb_wgm_pricing",
+          "value": {
+            "default_price": "0",
+            "type": "mwb_wgm_user_price",
+            "template": [
+              "3259"
+            ],
+            "by_default_tem": [
+              "3259"
+            ]
+          }
+        }
+      ],
+      "purchasable": true,
+      "image": "http://localhost/melophy-live/wp-content/uploads/2021/05/giftvoucher.png",
+      "gallery_images": [],
+      "variations": [],
+      "categories": [
+        {
+          "id": 354,
+          "name": "Gift Card",
+          "slug": "mwb_wgm_giftcard"
+        }
+      ]
+    },
+    {
+      "id": 1308,
+      "name": "Booking",
+      "slug": "booking",
+      "date_created": {
+        "date": "2020-12-17 18:43:19.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2020-12-17 18:43:19.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "1",
+      "regular_price": "1",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": 0,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "reviews_allowed": true,
+      "purchase_note": "",
+      "attributes": [],
+      "default_attributes": [],
+      "menu_order": 0,
+      "post_password": "",
+      "virtual": false,
+      "downloadable": false,
+      "category_ids": [
+        21
+      ],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": "",
+      "gallery_image_ids": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": "0",
+      "review_count": 0,
+      "meta_data": [
+        {
+          "id": 10903,
+          "key": "_is_jet_booking",
+          "value": "1"
+        }
+      ],
+      "purchasable": true,
+      "image": "http://localhost/melophy-live/wp-content/uploads/woocommerce-placeholder-300x300.png",
+      "gallery_images": [],
+      "variations": [],
+      "categories": [
+        {
+          "id": 21,
+          "name": "Uncategorized",
+          "slug": "uncategorized"
+        }
+      ]
+    },
+    {
+      "id": 5062,
+      "name": "Balram Variable Product",
+      "slug": "balram-variable-product",
+      "date_created": {
+        "date": "2021-09-17 11:00:13.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2021-09-17 12:46:12.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "9",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": 0,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "reviews_allowed": false,
+      "purchase_note": "",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "Color",
+          "options": [
+            "red",
+            "yellow",
+            "pink"
+          ],
+          "position": 0,
+          "visible": true,
+          "variation": true,
+          "is_visible": 1,
+          "is_variation": 1,
+          "is_taxonomy": 0,
+          "value": "red | yellow | pink"
+        },
+        {
+          "id": 0,
+          "name": "size",
+          "options": [
+            "s",
+            "m",
+            "l"
+          ],
+          "position": 1,
+          "visible": true,
+          "variation": true,
+          "is_visible": 1,
+          "is_variation": 1,
+          "is_taxonomy": 0,
+          "value": "s | m | l"
+        },
+        {
+          "id": 0,
+          "name": "weight",
+          "options": [
+            "light",
+            "heavy"
+          ],
+          "position": 2,
+          "visible": true,
+          "variation": false,
+          "is_visible": 1,
+          "is_variation": 0,
+          "is_taxonomy": 0,
+          "value": "light | heavy"
+        }
+      ],
+      "default_attributes": [],
+      "menu_order": 0,
+      "post_password": "",
+      "virtual": false,
+      "downloadable": false,
+      "category_ids": [
+        21
+      ],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": "5073",
+      "gallery_image_ids": [
+        5076,
+        5077,
+        5073,
+        5074
+      ],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": "0",
+      "review_count": 0,
+      "meta_data": [
+        {
+          "id": 65158,
+          "key": "_ign_paypal_recipients",
+          "value": ""
+        },
+        {
+          "id": 65159,
+          "key": "_ign_paypal_payout_mode",
+          "value": "percent"
+        },
+        {
+          "id": 65160,
+          "key": "_booked_appointment",
+          "value": "no"
+        }
+      ],
+      "purchasable": true,
+      "image": "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png",
+      "gallery_images": [
+        "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-15-17-02-57.png",
+        "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-08-11-58-21.png",
+        "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png",
+        "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-16-17-06-29.png"
+      ],
+      "variations": [
+        {
+          "id": 5064,
+          "name": "Balram Variable Product - red, s",
+          "slug": "balram-variable-product-s-red",
+          "date_created": {
+            "date": "2021-09-17 10:57:16.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-17 10:58:10.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "9",
+          "regular_price": "10",
+          "sale_price": "9",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5062,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "red",
+            "size": "s"
+          },
+          "default_attributes": [],
+          "menu_order": 1,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "Color: red, size: s",
+          "meta_data": [
+            {
+              "id": 65155,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 65156,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": true,
+          "image": "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png"
+        },
+        {
+          "id": 5065,
+          "name": "Balram Variable Product - red, m",
+          "slug": "balram-variable-product-m-red",
+          "date_created": {
+            "date": "2021-09-17 10:57:16.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-17 10:57:16.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "",
+          "regular_price": "",
+          "sale_price": "",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5062,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "red",
+            "size": "m"
+          },
+          "default_attributes": [],
+          "menu_order": 2,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "Color: red, size: m",
+          "meta_data": [
+            {
+              "id": 65161,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 65162,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": false,
+          "image": "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png"
+        },
+        {
+          "id": 5066,
+          "name": "Balram Variable Product - red, l",
+          "slug": "balram-variable-product-l-red",
+          "date_created": {
+            "date": "2021-09-17 10:57:16.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-17 12:46:12.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "10",
+          "regular_price": "12",
+          "sale_price": "10",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5062,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "red",
+            "size": "l"
+          },
+          "default_attributes": [],
+          "menu_order": 3,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "Color: red, size: l",
+          "meta_data": [
+            {
+              "id": 65163,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 65164,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": true,
+          "image": "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png"
+        },
+        {
+          "id": 5067,
+          "name": "Balram Variable Product - yellow, s",
+          "slug": "balram-variable-product-s-yellow",
+          "date_created": {
+            "date": "2021-09-17 10:57:16.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-17 10:57:16.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "",
+          "regular_price": "",
+          "sale_price": "",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5062,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "yellow",
+            "size": "s"
+          },
+          "default_attributes": [],
+          "menu_order": 4,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "Color: yellow, size: s",
+          "meta_data": [
+            {
+              "id": 65165,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 65166,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": false,
+          "image": "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png"
+        },
+        {
+          "id": 5068,
+          "name": "Balram Variable Product - yellow, m",
+          "slug": "balram-variable-product-m-yellow",
+          "date_created": {
+            "date": "2021-09-17 10:57:17.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-17 10:57:17.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "",
+          "regular_price": "",
+          "sale_price": "",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5062,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "yellow",
+            "size": "m"
+          },
+          "default_attributes": [],
+          "menu_order": 5,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "Color: yellow, size: m",
+          "meta_data": [
+            {
+              "id": 65167,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 65168,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": false,
+          "image": "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png"
+        },
+        {
+          "id": 5069,
+          "name": "Balram Variable Product - yellow, l",
+          "slug": "balram-variable-product-l-yellow",
+          "date_created": {
+            "date": "2021-09-17 10:57:17.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-17 10:57:17.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "",
+          "regular_price": "",
+          "sale_price": "",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5062,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "yellow",
+            "size": "l"
+          },
+          "default_attributes": [],
+          "menu_order": 6,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "Color: yellow, size: l",
+          "meta_data": [
+            {
+              "id": 65169,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 65170,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": false,
+          "image": "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png"
+        },
+        {
+          "id": 5070,
+          "name": "Balram Variable Product - pink, s",
+          "slug": "balram-variable-product-s-pink",
+          "date_created": {
+            "date": "2021-09-17 10:57:17.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-17 10:57:17.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "",
+          "regular_price": "",
+          "sale_price": "",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5062,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "pink",
+            "size": "s"
+          },
+          "default_attributes": [],
+          "menu_order": 7,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "Color: pink, size: s",
+          "meta_data": [
+            {
+              "id": 65171,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 65172,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": false,
+          "image": "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png"
+        },
+        {
+          "id": 5071,
+          "name": "Balram Variable Product - pink, m",
+          "slug": "balram-variable-product-m-pink",
+          "date_created": {
+            "date": "2021-09-17 10:57:17.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-17 10:57:17.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "",
+          "regular_price": "",
+          "sale_price": "",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5062,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "pink",
+            "size": "m"
+          },
+          "default_attributes": [],
+          "menu_order": 8,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "Color: pink, size: m",
+          "meta_data": [
+            {
+              "id": 65173,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 65174,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": false,
+          "image": "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png"
+        },
+        {
+          "id": 5072,
+          "name": "Balram Variable Product - pink, l",
+          "slug": "balram-variable-product-l-pink",
+          "date_created": {
+            "date": "2021-09-17 10:57:17.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "date_modified": {
+            "date": "2021-09-17 10:57:17.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "status": "publish",
+          "featured": false,
+          "catalog_visibility": "visible",
+          "description": "",
+          "short_description": "",
+          "sku": "",
+          "price": "",
+          "regular_price": "",
+          "sale_price": "",
+          "date_on_sale_from": null,
+          "date_on_sale_to": null,
+          "total_sales": "0",
+          "tax_status": "taxable",
+          "tax_class": "parent",
+          "manage_stock": false,
+          "stock_quantity": null,
+          "stock_status": "instock",
+          "backorders": "no",
+          "low_stock_amount": "",
+          "sold_individually": false,
+          "weight": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "upsell_ids": [],
+          "cross_sell_ids": [],
+          "parent_id": 5062,
+          "reviews_allowed": false,
+          "purchase_note": "",
+          "attributes": {
+            "color": "pink",
+            "size": "l"
+          },
+          "default_attributes": [],
+          "menu_order": 9,
+          "post_password": "",
+          "virtual": false,
+          "downloadable": false,
+          "category_ids": [],
+          "tag_ids": [],
+          "shipping_class_id": 0,
+          "downloads": [],
+          "image_id": 0,
+          "gallery_image_ids": [],
+          "download_limit": -1,
+          "download_expiry": -1,
+          "rating_counts": [],
+          "average_rating": 0,
+          "review_count": 0,
+          "attribute_summary": "Color: pink, size: l",
+          "meta_data": [
+            {
+              "id": 65175,
+              "key": "_ign_paypal_recipients",
+              "value": ""
+            },
+            {
+              "id": 65176,
+              "key": "_ign_paypal_payout_mode",
+              "value": "percent"
+            }
+          ],
+          "purchasable": false,
+          "image": "http://localhost/melophy-live/wp-content/uploads/2021/09/Screenshot-from-2021-09-17-10-32-14.png"
+        }
+      ],
+      "categories": [
+        {
+          "id": 21,
+          "name": "Uncategorized",
+          "slug": "uncategorized"
+        }
+      ]
+    },
+    {
+      "id": 1245,
+      "name": "60 Minute Lesson with ST4RFOX",
+      "slug": "60-minute-lesson-with-st4rfox",
+      "date_created": {
+        "date": "2020-12-14 04:07:46.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2020-12-14 04:08:38.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "100",
+      "regular_price": "100",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": 0,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "reviews_allowed": false,
+      "purchase_note": "",
+      "attributes": [],
+      "default_attributes": [],
+      "menu_order": 0,
+      "post_password": "",
+      "virtual": true,
+      "downloadable": false,
+      "category_ids": [
+        70,
+        67
+      ],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": "940",
+      "gallery_image_ids": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": "0",
+      "review_count": 0,
+      "meta_data": [
+        {
+          "id": 10101,
+          "key": "_ign_paypal_recipients",
+          "value": ""
+        },
+        {
+          "id": 10102,
+          "key": "_ign_paypal_payout_mode",
+          "value": "percent"
+        },
+        {
+          "id": 10103,
+          "key": "_booked_appointment",
+          "value": "no"
+        }
+      ],
+      "purchasable": true,
+      "image": "http://localhost/melophy-live/wp-content/uploads/2020/10/Melophy-White-on-Black-Background.png",
+      "gallery_images": [],
+      "variations": [],
+      "categories": [
+        {
+          "id": 70,
+          "name": "60 Minutes",
+          "slug": "60-minutes"
+        },
+        {
+          "id": 67,
+          "name": "Lessons",
+          "slug": "lessons"
+        }
+      ]
+    },
+    {
+      "id": 1217,
+      "name": "60 Minute Lesson with Aaron Wolf",
+      "slug": "60-minute-lesson-with-aaron-wolf",
+      "date_created": {
+        "date": "2020-12-14 03:39:53.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2020-12-14 03:44:31.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "70",
+      "regular_price": "70",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": 0,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "reviews_allowed": false,
+      "purchase_note": "",
+      "attributes": [],
+      "default_attributes": [],
+      "menu_order": 0,
+      "post_password": "",
+      "virtual": true,
+      "downloadable": false,
+      "category_ids": [
+        70,
+        67
+      ],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": "940",
+      "gallery_image_ids": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": "0",
+      "review_count": 0,
+      "meta_data": [
+        {
+          "id": 9443,
+          "key": "_ign_paypal_recipients",
+          "value": ""
+        },
+        {
+          "id": 9444,
+          "key": "_ign_paypal_payout_mode",
+          "value": "percent"
+        },
+        {
+          "id": 9445,
+          "key": "_booked_appointment",
+          "value": "no"
+        }
+      ],
+      "purchasable": true,
+      "image": "http://localhost/melophy-live/wp-content/uploads/2020/10/Melophy-White-on-Black-Background.png",
+      "gallery_images": [],
+      "variations": [],
+      "categories": [
+        {
+          "id": 70,
+          "name": "60 Minutes",
+          "slug": "60-minutes"
+        },
+        {
+          "id": 67,
+          "name": "Lessons",
+          "slug": "lessons"
+        }
+      ]
+    },
+    {
+      "id": 1244,
+      "name": "45 Minute Lesson with ST4RFOX",
+      "slug": "45-minute-lesson-with-st4rfox",
+      "date_created": {
+        "date": "2020-12-14 04:07:43.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "date_modified": {
+        "date": "2020-12-14 04:08:34.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "",
+      "price": "75",
+      "regular_price": "75",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "total_sales": 0,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "backorders": "no",
+      "low_stock_amount": "",
+      "sold_individually": false,
+      "weight": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "reviews_allowed": false,
+      "purchase_note": "",
+      "attributes": [],
+      "default_attributes": [],
+      "menu_order": 0,
+      "post_password": "",
+      "virtual": true,
+      "downloadable": false,
+      "category_ids": [
+        68,
+        67
+      ],
+      "tag_ids": [],
+      "shipping_class_id": 0,
+      "downloads": [],
+      "image_id": "940",
+      "gallery_image_ids": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "rating_counts": [],
+      "average_rating": "0",
+      "review_count": 0,
+      "meta_data": [
+        {
+          "id": 10080,
+          "key": "_ign_paypal_recipients",
+          "value": ""
+        },
+        {
+          "id": 10081,
+          "key": "_ign_paypal_payout_mode",
+          "value": "percent"
+        },
+        {
+          "id": 10082,
+          "key": "_booked_appointment",
+          "value": "no"
+        }
+      ],
+      "purchasable": true,
+      "image": "http://localhost/melophy-live/wp-content/uploads/2020/10/Melophy-White-on-Black-Background.png",
+      "gallery_images": [],
+      "variations": [],
+      "categories": [
+        {
+          "id": 68,
+          "name": "45 Minutes",
+          "slug": "45-minutes"
+        },
+        {
+          "id": 67,
+          "name": "Lessons",
+          "slug": "lessons"
+        }
+      ]
+    }
+  ],
+  "currency": "USD"
+}
